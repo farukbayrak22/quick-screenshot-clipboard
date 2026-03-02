@@ -28,4 +28,4 @@ A tiny Chrome extension that copies a screenshot of the **visible area of the cu
 - `clipboardWrite` — needed to copy the screenshot image to your clipboard
 
 ## License
-MIT (or replace with your preferred license)
+MIT
